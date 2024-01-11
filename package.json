@@ -6,7 +6,6 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "prebuild": "jest"
   },
   "dependencies": {
     "axios": "^1.6.5",
